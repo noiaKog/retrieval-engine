@@ -10,7 +10,7 @@ response = request.get(url="http://35.223.4.123:8080/search",params={"query":"he
 Key Component of the Engine
 The engine contains several logic units:
 
-**search_forntend - flask application the reveal 6 endpoints:
+** search_forntend - flask application the reveal 6 endpoints:
 
 *search - the main search method of the engine, combine results from number of sub-searches.
 
