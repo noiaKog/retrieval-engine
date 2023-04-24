@@ -1,4 +1,5 @@
-Information Retrieval
+# Information Retrieval
+
 Using the TF-IDF algorithm, this code retrieves text data. The Google Cloud storage library is utilized to access a Google Cloud Storage bucket, while the NLTK library performs tokenization and stopword removal.
 
 Initially, the code defines a function that leverages the storage library to gain access to a bucket on Google Cloud Storage. Additionally, NLTK's stopword list is employed to eliminate common words that lack significant meaning during the tokenization process.
